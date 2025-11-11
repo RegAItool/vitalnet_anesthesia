@@ -196,3 +196,41 @@ If you use this code in your research, please cite:
 
 **Last Updated**: January 2025
 **Status**: 🟡 Under Peer Review - Partial Release
+
+## 🔬 Reproducibility
+
+VitalNet follows academic reproducibility standards while protecting intellectual property:
+
+### ✅ Fully Reproducible
+- **Data preprocessing**: Complete pipeline with VitalDB downloader
+- **Feature extraction**: All time/frequency domain methods
+- **Evaluation metrics**: All metrics (MAE, RMSE, R², CCC, AUC, etc.)
+- **Toy model**: Working demonstration on synthetic data
+
+### ⚠️ Methodology Available
+- **Core architecture**: High-level pseudocode provided in `demo/method_pseudocode.py`
+- **Training pipeline**: Algorithmic flow documented
+- **MPC optimization**: Framework and objectives described
+
+### 🔒 Proprietary (Post-Acceptance Release)
+- **Production model**: Full Transformer-CNN fusion implementation
+- **Pre-trained weights**: Models trained on 3,023 cases
+- **MPC dosing**: Patient-specific parameter optimization
+
+**See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for detailed instructions.**
+
+### Quick Demo
+
+```bash
+# Run toy model demonstration
+cd demo
+python toy_model.py
+
+# Expected output:
+# - Toy model trains on synthetic data
+# - Achieves ~60-70% of full model performance
+# - Demonstrates the methodology
+```
+
+**Note**: The toy model is for demonstration only. Paper results use the full proprietary model.
+
