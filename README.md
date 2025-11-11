@@ -17,8 +17,6 @@
 - Department of Anesthesiology, The First Affiliated Hospital of Dalian Medical University
 - Institute of Biomedical Engineering, University of Oxford
 
-**Status**: Under Review
-
 ## 🎯 Overview
 
 VitalNet addresses critical challenges in anesthesia management:
