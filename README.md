@@ -7,16 +7,6 @@
 
 > **⚠️ IMPORTANT NOTICE**: This repository is under **peer review** and contains only partial implementation. The core algorithmic components (Transformer-CNN fusion architecture and MPC-based closed-loop control) are **proprietary** and will be released after publication.
 
-## 📄 Paper Information
-
-**Title**: VitalNet: Multimodal Triple-Endpoint Prediction and Personalized Closed-Loop Dosing in Anesthesia
-
-**Authors**: Ping Wu*, Yu Han*, Xiaoqi Wu, Jing Zhang, Yunqi Li, Mengna Jiang, Qingping Wen†
-
-**Affiliation**:
-- Department of Anesthesiology, The First Affiliated Hospital of Dalian Medical University
-- Institute of Biomedical Engineering, University of Oxford
-
 ## 🎯 Overview
 
 VitalNet addresses critical challenges in anesthesia management:
