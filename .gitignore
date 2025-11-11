@@ -1,0 +1,75 @@
+# VitalNet .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data directories
+vitaldb_data/
+vitaldb_processed/
+vitaldb_waveforms/
+data/raw/
+data/processed/
+
+# Model files
+*.h5
+*.pkl
+*.pth
+*.weights
+models/trained/
+checkpoints/
+
+# Logs
+*.log
+logs/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Results
+results/
+outputs/
+figures/
+
+# Proprietary (DO NOT COMMIT)
+*_proprietary.py
+*_internal.py
+models/vitalnet_core.py
+models/transformer_cnn.py
+models/mpc_optimizer.py

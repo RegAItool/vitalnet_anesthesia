@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2025 VitalNet Research Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+IMPORTANT NOTICE:
+
+This repository contains partial implementation for research reproducibility.
+The following components are PROPRIETARY and NOT included in this release:
+
+1. VitalNet Transformer-CNN fusion architecture
+2. Multi-modal attention mechanisms
+3. Model Predictive Control (MPC) implementation for drug dosing
+4. Trained model weights and parameters
+5. Patient-specific PK/PD optimization algorithms
+
+These proprietary components will be released upon acceptance of the
+associated research paper.
+
+For licensing inquiries regarding the full VitalNet system, please contact:
+- Dr. Qingping Wen: wenqp@dmu.edu.cn
+- Yu Han: yu.han@eng.ox.ac.uk
